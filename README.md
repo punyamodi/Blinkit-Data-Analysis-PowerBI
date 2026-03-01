@@ -2,6 +2,8 @@
 
 An end-to-end interactive sales analytics dashboard built with Python and Streamlit, analysing Blinkit grocery data across outlets, product categories, and customer ratings.
 
+![Dashboard](https://github.com/user-attachments/assets/26f3cb56-a38f-4fde-bfdf-4defc771faeb)
+
 ## Overview
 
 The dashboard provides real-time filtering and visualisation of 8,523 grocery transactions sourced from Blinkit outlets spanning 2011 to 2022. All charts are interactive and respond to the sidebar filter panel.
